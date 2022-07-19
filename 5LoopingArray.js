@@ -237,8 +237,8 @@ console.log(entries);
 
 for(const x of entries){
     console.log('Using entries: ',x);
-}
+};
 
 for(const [key,{start,end}] of entries){     ////// Destructuring
 console.log(` On ${key} we start Playing at ${start} and end at ${end} `);
-}
+};
