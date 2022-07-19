@@ -1,0 +1,25 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+body{
+    margin: 0px;
+    background: rgb(219, 198, 198);
+}
+.topics{
+    margin-top: 100px;
+    margin-left: 500px;
+    margin-right: 500px;
+}
+.topic{
+    border: 2px solid rgb(239, 245, 239);
+    background:rgba(49, 195, 49, 0.53);
+    color:rgb(3, 85, 3);
+    width: 500px;
+}
+.h2{
+    border:1px dotted rgb(4, 109, 6);
+    background-color: rgba(124, 213, 124, 0.582);
+    color: rgb(255, 255, 255);
+}
